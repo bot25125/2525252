@@ -1,0 +1,5 @@
+{
+"ip"Sparsh4811.aternos.me",
+"port"55959,
+"name"spamar"
+}
